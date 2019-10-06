@@ -6,7 +6,6 @@ import { Container, Header } from "native-base";
 
 // Style
 import styles from "./styles";
-
 // Components
 import CoffeeList from "../CoffeeList";
 import CoffeeCart from "../CoffeeCart";
